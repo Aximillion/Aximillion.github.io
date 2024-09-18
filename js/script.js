@@ -1,5 +1,3 @@
-let imageCounter = 0;
-
 let currentSlide = 0;
 
 
